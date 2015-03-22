@@ -5,165 +5,165 @@ Example tBA-m-X contains the average of all the tBodyAcc-mean()-X	 measures that
 
 Name conversion:
 
-tBodyAcc-mean()-X			tBA-m-X,
+tBodyAcc-mean()-X		  	tBA-m-X,
 
-tBodyAcc-mean()-Y			tBA-m-Y,
+tBodyAcc-mean()-Y			  tBA-m-Y,
 
-tBodyAcc-mean()-Z			tBA-m-Z,
+tBodyAcc-mean()-Z			  tBA-m-Z,
 
-tGravityAcc-mean()-X			tGRA-m-X,
+tGravityAcc-mean()-X	  		tGRA-m-X,
+  
+tGravityAcc-mean()-Y		  	tGRA-m-Y,
 
-tGravityAcc-mean()-Y			tGRA-m-Y,
+tGravityAcc-mean()-Z		  	tGRA-m-Z,
+  
+tBodyAccJerk-mean()-X		  	tBAJ-m-X,
 
-tGravityAcc-mean()-Z			tGRA-m-Z,
+tBodyAccJerk-mean()-Y		  	tBAJ-m-Y,
 
-tBodyAccJerk-mean()-X			tBAJ-m-X,
+tBodyAccJerk-mean()-Z		  	tBAJ-m-Z,
 
-tBodyAccJerk-mean()-Y			tBAJ-m-Y,
+tBodyGyro-mean()-X		  	tBG-m-X,
 
-tBodyAccJerk-mean()-Z			tBAJ-m-Z,
+tBodyGyro-mean()-Y	  		tBG-m-Y,
 
-tBodyGyro-mean()-X			tBG-m-X,
+tBodyGyro-mean()-Z	  		tBG-m-Z,
 
-tBodyGyro-mean()-Y			tBG-m-Y,
+tBodyGyroJerk-mean()-X	  		tBGJ-m-X,
 
-tBodyGyro-mean()-Z			tBG-m-Z,
+tBodyGyroJerk-mean()-Y	  		tBGJ-m-Y,
 
-tBodyGyroJerk-mean()-X			tBGJ-m-X,
+tBodyGyroJerk-mean()-Z	  		tBGJ-m-Z,
 
-tBodyGyroJerk-mean()-Y			tBGJ-m-Y,
+tBodyAccMag-mean()	  		tBAMag-m,
 
-tBodyGyroJerk-mean()-Z			tBGJ-m-Z,
+tGravityAccMag-mean()	  		tGRAMag-m,
 
-tBodyAccMag-mean()			tBAMag-m,
+tBodyAccJerkMag-mean()	  		tBAJMag-m,
 
-tGravityAccMag-mean()			tGRAMag-m,
+tBodyGyroMag-mean()	  		tBGMag-m,
 
-tBodyAccJerkMag-mean()			tBAJMag-m,
+tBodyGyroJerkMag-mean()		  	tBGJMag-m,
 
-tBodyGyroMag-mean()			tBGMag-m,
+fBodyAcc-mean()-X	  		fBA-m-X,
 
-tBodyGyroJerkMag-mean()			tBGJMag-m,
+fBodyAcc-mean()-Y	  		fBA-m-Y,
 
-fBodyAcc-mean()-X			fBA-m-X,
+fBodyAcc-mean()-Z	  		fBA-m-Z,
 
-fBodyAcc-mean()-Y			fBA-m-Y,
+fBodyAcc-meanFreq()-X		  	fBA-mFreq-X,
 
-fBodyAcc-mean()-Z			fBA-m-Z,
+fBodyAcc-meanFreq()-Y		  	fBA-mFreq-Y,
 
-fBodyAcc-meanFreq()-X			fBA-mFreq-X,
+fBodyAcc-meanFreq()-Z	  		fBA-mFreq-Z,
 
-fBodyAcc-meanFreq()-Y			fBA-mFreq-Y,
+fBodyAccJerk-mean()-X		  	fBAJ-m-X,
 
-fBodyAcc-meanFreq()-Z			fBA-mFreq-Z,
+fBodyAccJerk-mean()-Y		  	fBAJ-m-Y,
 
-fBodyAccJerk-mean()-X			fBAJ-m-X,
+fBodyAccJerk-mean()-Z	  		fBAJ-m-Z,
 
-fBodyAccJerk-mean()-Y			fBAJ-m-Y,
+fBodyAccJerk-meanFreq()-X		  	fBAJ-mFreq-X,
 
-fBodyAccJerk-mean()-Z			fBAJ-m-Z,
+fBodyAccJerk-meanFreq()-Y		  	fBAJ-mFreq-Y,
 
-fBodyAccJerk-meanFreq()-X			fBAJ-mFreq-X,
+fBodyAccJerk-meanFreq()-Z	  		fBAJ-mFreq-Z,
 
-fBodyAccJerk-meanFreq()-Y			fBAJ-mFreq-Y,
+fBodyGyro-mean()-X	  		fBG-m-X,
 
-fBodyAccJerk-meanFreq()-Z			fBAJ-mFreq-Z,
+fBodyGyro-mean()-Y		  	fBG-m-Y,
 
-fBodyGyro-mean()-X			fBG-m-X,
+fBodyGyro-mean()-Z		  	fBG-m-Z,
 
-fBodyGyro-mean()-Y			fBG-m-Y,
+fBodyGyro-meanFreq()-X	  		fBG-mFreq-X,
+  
+fBodyGyro-meanFreq()-Y		  	fBG-mFreq-Y,
 
-fBodyGyro-mean()-Z			fBG-m-Z,
+fBodyGyro-meanFreq()-Z		  	fBG-mFreq-Z,
 
-fBodyGyro-meanFreq()-X			fBG-mFreq-X,
+fBodyAccMag-mean()		  	fBAMag-m,
 
-fBodyGyro-meanFreq()-Y			fBG-mFreq-Y,
+fBodyAccMag-meanFreq()		  	fBAMag-mFreq,
 
-fBodyGyro-meanFreq()-Z			fBG-mFreq-Z,
+fBodyBodyAccJerkMag-mean()		  	fBBAJMag-m,
 
-fBodyAccMag-mean()			fBAMag-m,
+fBodyBodyAccJerkMag-meanFreq()	  		fBBAJMag-mFreq,
 
-fBodyAccMag-meanFreq()			fBAMag-mFreq,
+fBodyBodyGyroMag-mean()	  		fBBGMag-m,
 
-fBodyBodyAccJerkMag-mean()			fBBAJMag-m,
+fBodyBodyGyroMag-meanFreq()		  	fBBGMag-mFreq,
 
-fBodyBodyAccJerkMag-meanFreq()			fBBAJMag-mFreq,
+fBodyBodyGyroJerkMag-mean()		  	fBBGJMag-m,
 
-fBodyBodyGyroMag-mean()			fBBGMag-m,
+fBodyBodyGyroJerkMag-meanFreq()		  	fBBGJMag-mFreq,
 
-fBodyBodyGyroMag-meanFreq()			fBBGMag-mFreq,
+tBodyAcc-std()-X	  		tBA-std-X,
 
-fBodyBodyGyroJerkMag-mean()			fBBGJMag-m,
+tBodyAcc-std()-Y	  		tBA-std-Y,
 
-fBodyBodyGyroJerkMag-meanFreq()			fBBGJMag-mFreq,
+tBodyAcc-std()-Z	  		tBA-std-Z,
 
-tBodyAcc-std()-X			tBA-std-X,
+tGravityAcc-std()-X		  	tGRA-std-X,
 
-tBodyAcc-std()-Y			tBA-std-Y,
+tGravityAcc-std()-Y		  	tGRA-std-Y,
 
-tBodyAcc-std()-Z			tBA-std-Z,
+tGravityAcc-std()-Z		  	tGRA-std-Z,
 
-tGravityAcc-std()-X			tGRA-std-X,
+tBodyAccJerk-std()-X	  		tBAJ-std-X,
 
-tGravityAcc-std()-Y			tGRA-std-Y,
+tBodyAccJerk-std()-Y	  		tBAJ-std-Y,
 
-tGravityAcc-std()-Z			tGRA-std-Z,
+tBodyAccJerk-std()-Z	  		tBAJ-std-Z,
 
-tBodyAccJerk-std()-X			tBAJ-std-X,
+tBodyGyro-std()-X		  	tBG-std-X,
 
-tBodyAccJerk-std()-Y			tBAJ-std-Y,
+tBodyGyro-std()-Y		  	tBG-std-Y,
 
-tBodyAccJerk-std()-Z			tBAJ-std-Z,
+tBodyGyro-std()-Z	  		tBG-std-Z,
 
-tBodyGyro-std()-X			tBG-std-X,
+tBodyGyroJerk-std()-X		  	tBGJ-std-X,
 
-tBodyGyro-std()-Y			tBG-std-Y,
+tBodyGyroJerk-std()-Y		  	tBGJ-std-Y,
 
-tBodyGyro-std()-Z			tBG-std-Z,
+tBodyGyroJerk-std()-Z		  	tBGJ-std-Z,
 
-tBodyGyroJerk-std()-X			tBGJ-std-X,
+tBodyAccMag-std()	  		tBAMag-std,
 
-tBodyGyroJerk-std()-Y			tBGJ-std-Y,
+tGravityAccMag-std()	  		tGRAMag-std,
 
-tBodyGyroJerk-std()-Z			tBGJ-std-Z,
+tBodyAccJerkMag-std()	  		tBAJMag-std,
 
-tBodyAccMag-std()			tBAMag-std,
+tBodyGyroMag-std()	  		tBGMag-std,
 
-tGravityAccMag-std()			tGRAMag-std,
+tBodyGyroJerkMag-std()	  		tBGJMag-std,
 
-tBodyAccJerkMag-std()			tBAJMag-std,
+fBodyAcc-std()-X	  		fBA-std-X,
 
-tBodyGyroMag-std()			tBGMag-std,
+fBodyAcc-std()-Y	  		fBA-std-Y,
 
-tBodyGyroJerkMag-std()			tBGJMag-std,
+fBodyAcc-std()-Z	  		fBA-std-Z,
 
-fBodyAcc-std()-X			fBA-std-X,
+fBodyAccJerk-std()-X	  		fBAJ-std-X,
 
-fBodyAcc-std()-Y			fBA-std-Y,
+fBodyAccJerk-std()-Y	  		fBAJ-std-Y,
 
-fBodyAcc-std()-Z			fBA-std-Z,
+fBodyAccJerk-std()-Z	  		fBAJ-std-Z,
 
-fBodyAccJerk-std()-X			fBAJ-std-X,
+fBodyGyro-std()-X		  	fBG-std-X,
 
-fBodyAccJerk-std()-Y			fBAJ-std-Y,
+fBodyGyro-std()-Y	  		fBG-std-Y,
 
-fBodyAccJerk-std()-Z			fBAJ-std-Z,
+fBodyGyro-std()-Z	  		fBG-std-Z,
 
-fBodyGyro-std()-X			fBG-std-X,
+fBodyAccMag-std()	  		fBAMag-std,
 
-fBodyGyro-std()-Y			fBG-std-Y,
+fBodyBodyAccJerkMag-std()	  		fBBAJMag-std,
 
-fBodyGyro-std()-Z			fBG-std-Z,
+fBodyBodyGyroMag-std()		  	fBBGMag-std,
 
-fBodyAccMag-std()			fBAMag-std,
+fBodyBodyGyroJerkMag-std()	  		fBBGJMag-std,
 
-fBodyBodyAccJerkMag-std()			fBBAJMag-std,
-
-fBodyBodyGyroMag-std()			fBBGMag-std,
-
-fBodyBodyGyroJerkMag-std()			fBBGJMag-std,
-
-Activities			Activities,
+Activities		  	Activities,
 
 Subjects			Subjects,
 
