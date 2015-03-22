@@ -3,9 +3,14 @@ Every column contains the average value grouped my activity and subject IDs
 
 Example tBA-m-X contains the average of all the tBodyAcc-mean()-X	 measures that a person did during a certain activity (for example Walking)
 
-Name conversion: B -> Book A -> Acc J -> Jerk Gravity -> GR mean -> m Gyro -> G
+Name conversion: 
+B -> Book A -> Acc J -> Jerk Gravity -> GR mean -> m Gyro -> G
+
 example tBA-m-Z -> tBodyAcc-mean-Z
-Units: If the name contains Acc (acceleralion), m/s^2 
+
+Units: 
+If the name contains Acc (acceleralion), m/s^2 
+
 If the name contain G (Triaxial Angular velocity), m/s^2
 
 
